@@ -64,3 +64,18 @@ Este projeto tem foco em:
 - Evoluir o modelo de simulação
 
 Projeto educacional para fins de estudo e aprendizado.
+
+## ▶️ Como Rodar o Projeto
+
+### Pré-requisitos
+Antes de rodar o projeto, certifique-se de ter instalado:
+
+- Java 17 ou superior
+- Maven
+- IntelliJ IDEA (recomendado)
+
+---
+
+### ENDPOINT
+
+/simulate em uma API rest para ver os resultados.
